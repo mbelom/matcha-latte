@@ -1,2 +1,2 @@
-# matcha-latte
-NoSQL Challenge: Social Network API
+# NoSQL Challenge: Social Network API
+
